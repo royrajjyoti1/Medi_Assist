@@ -1,0 +1,6 @@
+azure-ai-formrecognizer
+openai
+azure-cli
+python-dotenv
+streamlit
+regex
